@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [erikaax.com](https://erikaax.com)
 
-- 📫 How to reach me **contact@erikaax.com**
+- 📫 How to reach me **eamastalx@outlook.com**
 
 - 📄 Know about my experiences [erikaax.com/resume](https://erikaax.com/resume)
 
