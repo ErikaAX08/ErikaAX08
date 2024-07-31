@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a habits app<br>👯 I’m looking to collaborate on Syntax México<br>🌱 I’m currently learning Astro
+🔭 I’m currently working on a habits app<br>👯 I am looking to become an intern at Microsoft<br>🌱 I’m currently learning Astro
 
 
 ## 🌐 Socials:
