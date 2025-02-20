@@ -24,15 +24,15 @@ Full-Stack Web & Mobile App Developer
   </h3>
 </div>
 
-- 🔭 I’m developing an app to help university students choose professors based on reviews and data.
-- 🎓 I’m a **Computer Science Engineering** student with a strong background in algorithms, software development, and system design.
-- 👯 I’m looking for internship opportunities at top tech companies to grow my skills and contribute to impactful projects.
-- 📊 I have a passion for mathematics, especially **Probability and Statistics**, and their use in **Data Science**.
-- 🌱 I’m currently learning **Data Science**, **OpenGL**, and **AWS**, always exploring new technologies to stay up to date.
-- 💡 I have experience in **full-stack web development**, **Android app development**, and **game development** with Unity and Godot. I love bringing creativity and versatility to every project.
-- 🚀 I’m also starting to explore **competitive programming** to sharpen my problem-solving abilities.
-- 🌐 Check out my personal portfolio to learn more about my projects and experience.
-- 📩 Contact me at eamastalxochimitl@gmail.com for collaborations or opportunities.
+- 🔭 I’m developing an app to help university students choose professors based on reviews and data.  
+- 🎓 I’m a **Computer Science Engineering** student with a strong background in algorithms, software development, and system design.  
+- 👯 I’m looking for internship opportunities at top tech companies to grow my skills and contribute to impactful projects.  
+- 📊 I have a passion for **Machine Learning**, **computer networks**, and **mathematical research**, especially in **Probability and Statistics**.  
+- 🌱 I’m currently learning **Machine Learning**, **computer networks**, and **AWS**, always exploring new technologies to stay up to date.  
+- 💡 I have experience in **full-stack web development**, **Android app development**, and **game development** with Unity and Godot. I love bringing creativity and versatility to every project.  
+- 🚀 I’m also starting to explore **competitive programming** to sharpen my problem-solving abilities.  
+- 🌐 Check out my personal portfolio to learn more about my projects and experience.  
+- 📩 Contact me at eamastalxochimitl@gmail.com for collaborations or opportunities.  
 
 <br>
 
