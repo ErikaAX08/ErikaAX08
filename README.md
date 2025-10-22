@@ -20,7 +20,6 @@ Full-Stack Web & Mobile App Developer
   </h3>
 </div>
 
-- 🔭 I’m developing an app to help university students choose professors based on reviews and data.  
 - 🎓 I’m a **Computer Science Engineering** student with a strong background in algorithms, software development, and system design.  
 - 👯 I’m looking for internship opportunities at top tech companies to grow my skills and contribute to impactful projects.  
 - 📊 I have a passion for **Machine Learning**, **computer networks**, and **mathematical research**, especially in **Probability and Statistics**.  
