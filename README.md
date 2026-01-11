@@ -24,7 +24,6 @@ Full-Stack Web & Mobile App Developer
   </h3>
 </div>
 
-
 <br>
 
 ## 👋 About Me
@@ -38,16 +37,38 @@ I'm a **Computer Science Engineering student** at Benemérita Universidad Autón
 - 🌱 **Currently learning:** Advanced ML algorithms, Deep Learning, AI model deployment, and neural networks
 - 📍 **Location:** Puebla, México
 
+<br>
+<br>
 
+## 💼 Professional Experience
+
+### 🔹 Software Engineer | Contago MX
+
+**March 2025 - Present**
+
+Leading frontend development for government digital transformation platforms using **Vue.js**, **Quasar**, and C# APIs. Building automated tax validation tools and optimizing performance for SAT fiscal systems.
+
+### 🔹 Full-Stack Developer & Team Lead | Cruz Roja Mexicana
+
+**Present**
+
+Leading development of volunteer management platform using **PHP**, **JavaScript**, and **MySQL**. Implementing scalable and sustainable architecture for long-term maintenance and growth.
+
+### 🔹 Full-Stack Developer & Team Lead | SYNTAX
+
+**May 2025 - September 2025**
+
+Led team of 4 developers building AWS Operations Center with **Django** (150+ endpoints), **Next.js**, and **PostgreSQL**. Managed 2,000+ servers with concurrent SSH execution and AWS infrastructure (EC2, S3, RDS, IAM, VPC).
+
+<br>
 <br>
 
 ## 🏆 Key Achievements
 
-- 🥇 **1st Place** – Hackathon ARPA BUAP 2025 | Led full-stack development for Visual Arts platform
+- 🥇 **1st Place** – Hackathon ARPA BUAP 2025 | Led mobile development for Visual Arts platform
 - 🥇 **1st Place** – DigiEduHack 2025 | Built AI-powered educational platform with LLM integration
 - 🏆 **Winner** – XVII FEPRO Competition | Led team building AWS Operations Center managing 2,000+ servers
 - 🏆 **Best Use of MongoDB Atlas** – HackPue 2025 by ITSM | iOS development with AI integration
-
 
 <br>
 
@@ -60,7 +81,6 @@ Computer Science Engineering | 9th Semester | 2023 - 2026
 
 - 🔹 Oracle Next Education - Java Backend Developer (2023)
 - 🔹 Cisco Networking Academy - CCNA 1: Introduction to Networks (2024)
-
 
 <br>
 
