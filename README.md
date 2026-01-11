@@ -24,7 +24,6 @@ Full-Stack Web & Mobile App Developer
   </h3>
 </div>
 
----
 
 <br>
 
@@ -39,7 +38,6 @@ I'm a **Computer Science Engineering student** at Benemérita Universidad Autón
 - 🌱 **Currently learning:** Advanced ML algorithms, Deep Learning, AI model deployment, and neural networks
 - 📍 **Location:** Puebla, México
 
----
 
 <br>
 
@@ -50,7 +48,6 @@ I'm a **Computer Science Engineering student** at Benemérita Universidad Autón
 - 🏆 **Winner** – XVII FEPRO Competition | Led team building AWS Operations Center managing 2,000+ servers
 - 🏆 **Best Use of MongoDB Atlas** – HackPue 2025 by ITSM | iOS development with AI integration
 
----
 
 <br>
 
@@ -64,7 +61,6 @@ Computer Science Engineering | 9th Semester | 2023 - 2026
 - 🔹 Oracle Next Education - Java Backend Developer (2023)
 - 🔹 Cisco Networking Academy - CCNA 1: Introduction to Networks (2024)
 
----
 
 <br>
 
@@ -72,7 +68,12 @@ Computer Science Engineering | 9th Semester | 2023 - 2026
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erikaax) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/erika.amastal) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/767831411080036404) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/people/Erika-AX/pfbid0qNh5fZTq9LZovRfS62tnbcPxTSdxhJ8zLTvjHQWWFE5mxX6Cm7oVDyybVsjYdde9l/) [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7045447730863824695) [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/ErikaAX) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/ErikaAX08/)
 
+<br>
+<br>
+
 # 💼 Selected Work:
+
+<br>
 
 <table>
   <tr>
