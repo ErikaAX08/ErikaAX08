@@ -17,17 +17,54 @@ Full-Stack Web & Mobile App Developer
     <a href="https://instagram.com/erika.amastal">
       Instagram
     </a>
+    <span> | </span>
+    <a href="mailto:eamastalxochimitl@gmail.com">
+      Email
+    </a>
   </h3>
 </div>
 
-- 🎓 I'm a **Computer Science Engineering** student with a strong background in algorithms, software development, and system design.
-- 👯 I'm looking for internship opportunities at top tech companies to grow my skills and contribute to impactful projects.
-- 📊 I have a passion for **Machine Learning**, **computer networks**, and **mathematical research**, especially in **Probability and Statistics**.
-- 🌱 I'm currently learning **Machine Learning**, **computer networks**, and **AWS**, always exploring new technologies to stay up to date.
-- 💡 I have experience in **full-stack web development**, **Android app development**, and **game development** with Unity and Godot. I love bringing creativity and versatility to every project.
-- 🚀 I'm also starting to explore **competitive programming** to sharpen my problem-solving abilities.
-- 🌐 Check out my personal portfolio to learn more about my projects and experience.
-- 📩 Contact me at hello@erikaax.dev for collaborations or opportunities.
+---
+
+<br>
+
+## 👋 About Me
+
+I'm a **Computer Science Engineering student** at Benemérita Universidad Autónoma de Puebla with proven experience building enterprise-grade web and mobile applications. Currently working as a **Software Engineer at Contago MX**, where I lead frontend development for government digital transformation platforms.
+
+- 🚀 **Currently:** Full-Stack Developer & Mobile Developer specializing in React, Vue.js, Next.js, and Android development
+- 🎯 **Career Goal:** Transitioning into **AI Engineering** to build intelligent systems and machine learning solutions
+- 💡 **Passionate about:** Machine Learning, Computer Vision, Cloud Architecture (AWS), and scalable systems
+- 🏃 **In my free time:** I'm an avid **runner**, combining discipline and endurance from running with my approach to software development
+- 🌱 **Currently learning:** Advanced ML algorithms, Deep Learning, AI model deployment, and neural networks
+- 📍 **Location:** Puebla, México
+
+---
+
+<br>
+
+## 🏆 Key Achievements
+
+- 🥇 **1st Place** – Hackathon ARPA BUAP 2025 | Led full-stack development for Visual Arts platform
+- 🥇 **1st Place** – DigiEduHack 2025 | Built AI-powered educational platform with LLM integration
+- 🏆 **Winner** – XVII FEPRO Competition | Led team building AWS Operations Center managing 2,000+ servers
+- 🏆 **Best Use of MongoDB Atlas** – HackPue 2025 by ITSM | iOS development with AI integration
+
+---
+
+<br>
+
+## 🎓 Education & Certifications
+
+**Benemérita Universidad Autónoma de Puebla**  
+Computer Science Engineering | 9th Semester | 2023 - 2026
+
+**Certifications:**
+
+- 🔹 Oracle Next Education - Java Backend Developer (2023)
+- 🔹 Cisco Networking Academy - CCNA 1: Introduction to Networks (2024)
+
+---
 
 <br>
 
@@ -100,3 +137,13 @@ Full-Stack Web & Mobile App Developer
 ![](https://github-readme-stats.vercel.app/api?username=ErikaAX08&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ErikaAX08&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaAX08&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ErikaAX08&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</div>
+
+<div align="center">
+  <i>"Building innovative solutions today, pioneering AI systems tomorrow. 🚀🤖"</i>
+</div>
