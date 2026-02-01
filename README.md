@@ -95,35 +95,6 @@ Computer Science Engineering | 9th Semester | 2023 - 2026
 
 <br>
 
-<table>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h3><a href="https://play.google.com/store/apps/details?id=com.erikaax.timetracker" target="_blank">Time Tracker</a></h3> <br>
-      <a href="https://play.google.com/store/apps/details?id=com.erikaax.timetracker" target="_blank">
-        <img src="https://erikaax.dev/_next/image?url=%2Fprojects%2Ftime_tracker%2F02.jpg&w=640&q=75" alt="Time Tracker Image" style="border-radius: 15px; width: 100%; height: auto;"/>
-      </a>
-      <p align="start">
-        <br>
-        <br>
-        In my latest project, I developed Time Tracker, an app designed to enhance time management through personalized timers and organizational tags. This tool allows users to set up and monitor time for various activities, increasing productivity and efficiency. The intuitive interface supports tailored timer creation, while the tagging system aids in better tracking. Additionally, the app includes a widget for easy timer control directly from the main screen, ideal for tasks such as studying, exercise, and work.
-      </p>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h3><a href="https://play.google.com/store/apps/details?id=com.erikaax.passgenie" target="_blank">PassGenie</a></h3> <br>
-      <a href="https://play.google.com/store/apps/details?id=com.erikaax.passgenie" target="_blank">
-        <img src="https://erikaax.dev/_next/image?url=%2Fprojects%2Fpassgenie%2F04.jpg&w=640&q=75" alt="PassGenie Image" style="border-radius: 15px; width: 100%; height: auto;"/>
-      </a>
-      <p align="start">
-        <br>
-        <br>
-        PassGenie is a password management app designed to enhance security by generating and storing passwords locally, with access protected by fingerprint authentication. It features a secure vault where users can categorize passwords by name, email, and username, and uses advanced encryption techniques to safeguard sensitive information. PassGenie emphasizes privacy and security while providing a user-friendly experience, showcasing my ability to create secure, real-world solutions that prioritize data protection and usability.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 # 💻 Tech Stack:
 
 <b>Mobile Applications</b></br></br>
