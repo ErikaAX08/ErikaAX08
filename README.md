@@ -91,10 +91,6 @@ Computer Science Engineering | 9th Semester | 2023 - 2026
 <br>
 <br>
 
-# 💼 Selected Work:
-
-<br>
-
 # 💻 Tech Stack:
 
 <b>Mobile Applications</b></br></br>
