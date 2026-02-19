@@ -40,29 +40,6 @@ I'm a **Computer Science Engineering student** at Benemérita Universidad Autón
 <br>
 <br>
 
-## 💼 Professional Experience
-
-### 🔹 Software Engineer | Contago MX
-
-**March 2025 - Present**
-
-Leading frontend development for government digital transformation platforms using **Vue.js**, **Quasar**, and C# APIs. Building automated tax validation tools and optimizing performance for SAT fiscal systems.
-
-### 🔹 Full-Stack Developer & Team Lead | Cruz Roja Mexicana
-
-**Present**
-
-Leading development of volunteer management platform using **PHP**, **JavaScript**, and **MySQL**. Implementing scalable and sustainable architecture for long-term maintenance and growth.
-
-### 🔹 Full-Stack Developer & Team Lead | SYNTAX
-
-**May 2025 - September 2025**
-
-Led team of 4 developers building AWS Operations Center with **Django** (150+ endpoints), **Next.js**, and **PostgreSQL**. Managed 2,000+ servers with concurrent SSH execution and AWS infrastructure (EC2, S3, RDS, IAM, VPC).
-
-<br>
-<br>
-
 ## 🏆 Key Achievements
 
 - 🥇 **1st Place** – Hackathon ARPA BUAP 2025 | Led mobile development for Visual Arts platform
