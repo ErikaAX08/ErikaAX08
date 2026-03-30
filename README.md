@@ -1,7 +1,7 @@
 <h1 align="center">Erika Amastal</h1>
 
 <div align="center">
-Full-Stack Web & Mobile App Developer
+Software Engineer | Backend, Distributed Systems & Machine Learning
 </div>
 
 <div align="center">
@@ -28,24 +28,26 @@ Full-Stack Web & Mobile App Developer
 
 ## 👋 About Me
 
-I'm a **Computer Science Engineering student** at Benemérita Universidad Autónoma de Puebla with proven experience building enterprise-grade web and mobile applications. Currently working as a **Software Engineer at Contago MX**, where I lead frontend development for government digital transformation platforms.
+I'm a **Software Engineer** specializing in **distributed backend systems and machine learning**, currently working at **Kigo Parkimovil**.
 
-- 🚀 **Currently:** Full-Stack Developer & Mobile Developer specializing in React, Vue.js, Next.js, and Android development
-- 🎯 **Career Goal:** Transitioning into **AI Engineering** to build intelligent systems and machine learning solutions
-- 💡 **Passionate about:** Machine Learning, Computer Vision, Cloud Architecture (AWS), and scalable systems
-- 🏃 **In my free time:** I'm an avid **runner**, combining discipline and endurance from running with my approach to software development
-- 🌱 **Currently learning:** Advanced ML algorithms, Deep Learning, AI model deployment, and neural networks
+I design and deploy **production-grade systems** that combine **ML, scalable architectures, and real-time processing**, with a strong focus on reliability, performance, and clean system design.
+
+- ⚙️ **Current Focus:** Backend engineering + Machine Learning systems
+- 🧠 **ML Work:** Fraud detection systems using behavioral embeddings, similarity search, and anomaly detection
+- 🏗️ **Architecture:** Microservices, Hexagonal Architecture, DDD, event-driven systems
+- ☁️ **Cloud:** AWS (EC2, S3, RDS, IAM, VPC), CI/CD pipelines, Dockerized services
 - 📍 **Location:** Puebla, México
 
 <br>
 <br>
 
-## 🏆 Key Achievements
+## 🏆 Achievements
 
-- 🥇 **1st Place** – Hackathon ARPA BUAP 2025 | Led mobile development for Visual Arts platform
-- 🥇 **1st Place** – DigiEduHack 2025 | Built AI-powered educational platform with LLM integration
-- 🏆 **Winner** – XVII FEPRO Competition | Led team building AWS Operations Center managing 2,000+ servers
-- 🏆 **Best Use of MongoDB Atlas** – HackPue 2025 by ITSM | iOS development with AI integration
+- 🥇 **1st Place – Hack3B 2026** (Route Optimization, Backend Engineering)
+- 🥇 **1st Place – DigiEduHack 2025** (AI + LLM platform)
+- 🏆 **Winner – XVII FEPRO Competition** (AWS Operations Center, 2,000+ servers)
+- 🏆 **Best Use of MongoDB Atlas – HackPue**
+- 🥇 **1st Place – Hackathon ARPA BUAP 2025**
 
 <br>
 
@@ -110,5 +112,5 @@ Computer Science Engineering | 9th Semester | 2023 - 2026
 </div>
 
 <div align="center">
-  <i>"Building innovative solutions today, pioneering AI systems tomorrow. 🚀🤖"</i>
+  <i>Building scalable systems and intelligent infrastructure.</i>
 </div>
